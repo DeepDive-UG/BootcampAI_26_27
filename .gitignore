@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large data files (too big for GitHub's 100 MB limit)
+Zajecia_5/creditcard_2023.csv
+Zajecia_5/creditcard_2023.csv.zip
